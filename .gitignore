@@ -4,3 +4,5 @@ env.py
 __pycache__
 .vscode/
 package.json
+*.csv
+*.xlsx
